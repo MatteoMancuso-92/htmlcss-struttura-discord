@@ -4,4 +4,35 @@
 	box-sizing: border-box;
 }
 
+header {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1rem;
+	padding-inline: 10rem;
+	background-color: #ADD8E6;
+		
+  }
 
+  .link {
+	height: 30px;
+	background-color: rgb(218, 165, 32);
+	}
+
+
+.container {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 20rem;
+	background-color: rgb(0%, 0%, 55%);
+	display: flex;
+}
+
+.sezione {
+	flex: 0 0 100%;
+	background-color: rgb(93%, 51%, 93%);
+	height: 15rem;
+}
+
+
+  
