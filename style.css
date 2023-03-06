@@ -34,5 +34,141 @@ header {
 	height: 15rem;
 }
 
+.container-2 {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 15rem;
+	background-color: white;
+	display: flex;
+}
 
-  
+.repeat {
+	flex: 0 0 60%;
+	background-color: rgb(12%, 56%, 100%);
+	height: 20rem;
+}
+
+.repeat-2 {
+	flex: 0 0 40%;
+	background-color: rgb(100%, 75%, 80%);
+	height: 20rem;
+}
+
+.container-3 {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 15rem;
+	background-color: rgb(83%, 83%, 83%);
+	display: flex;
+}
+
+.repeats {
+	flex: 0 0 30%;
+	background-color: rgb(100%, 75%, 80%);
+	height: 20rem;
+}
+
+.repeat-3 {
+	flex: 0 0 70%;
+	background-color:  rgb(12%, 56%, 100%);
+	height: 20rem;
+}
+
+.container-4 {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 15rem;
+	background-color: white;
+	display: flex;
+}
+
+
+
+.repeatt {
+	flex: 0 0 60%;
+	background-color: rgb(12%, 56%, 100%);
+	height: 20rem;
+}
+
+.repeat-4 {
+	flex: 0 0 40%;
+	background-color:rgb(100%, 75%, 80%);
+	height: 20rem;
+}
+
+.container-5 {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 15rem;
+	background-color: rgb(83%, 83%, 83%);
+	display: flex;
+}
+
+.sezione-5 {
+	flex: 0 0 100%;
+	background-color: rgb(13%, 55%, 13%);
+	height: 35rem;
+}
+
+.container-6 {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1.5rem;
+	padding-inline: 15rem;
+	background-color: rgb(14%, 15%, 16%);
+	display: flex;
+	flex-direction: row;
+	
+}
+
+
+
+.repeattt {
+	flex: 0 0 40%;
+	background-color: #F08080;
+	height: 20rem;
+}
+
+.repeat-6 {
+	flex: 0 0 15%;
+	background-color: #20B2AA;
+	height: 20rem;
+}
+
+.repeat-7 {
+	flex: 0 0 15%;
+	background-color: #20B2AA;
+	height: 20rem;
+}
+
+.repeat-8 {
+	flex: 0 0 15%;
+	background-color: #20B2AA;
+	height: 20rem;
+}
+
+.repeat-9 {
+	flex: 0 0 15%;
+	background-color: #20B2AA;
+	height: 20rem;
+}
+
+
+.fine {
+	max-width: auto;
+    margin-inline: auto;
+	padding: 1rem;
+	padding-inline: 10rem;
+	background-color: rgb(14%, 15%, 16%);
+		
+  }
+
+  .foot {
+	height: 30px;
+	background-color: rgb(50%, 100%, 83%);
+	}
+
